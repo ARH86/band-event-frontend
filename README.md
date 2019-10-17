@@ -25,5 +25,4 @@ npm run test
 npm run lint
 ```
 # band-event-frontend
-# band-event-frontend
-# band-event-frontend
+
