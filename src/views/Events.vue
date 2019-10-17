@@ -17,7 +17,7 @@ export default ({
   },
   mounted () {
     axios
-      .get('https://api.seatgeek.com/2/events?client_id=MTY5OTUwNTN8MTU2MDMwMDA5MS42OA')
+      .get('https://api.seatgeek.com/2/events?client_id=')
       .then(response => (this.info = response.data.events))
   }
 })
